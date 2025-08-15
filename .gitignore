@@ -11,3 +11,18 @@ web_app/build/
 # Generales
 .DS_Store
 *.log
+# Flutter frontend
+flutter_app/build/
+flutter_app/.dart_tool/
+flutter_app/.idea/
+flutter_app/.flutter-plugins
+flutter_app/.flutter-plugins-dependencies
+flutter_app/.metadata
+flutter_app/ios/Pods/
+flutter_app/ios/Flutter/Flutter.framework/
+flutter_app/android/.gradle/
+flutter_app/android/local.properties
+flutter_app/android/build/
+flutter_app/windows/flutter/ephemeral/
+flutter_app/macos/Flutter/ephemeral/
+flutter_app/linux/flutter/ephemeral/
